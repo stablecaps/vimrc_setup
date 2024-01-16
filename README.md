@@ -1,6 +1,6 @@
 Installation:
 
-    git clone git://github.com/meatware/vimrc_setup.git ~/.vim
+    git clone https://github.com/stablecaps/vimrc_setup.git ~/.vim
 
 Create symlinks:
 
